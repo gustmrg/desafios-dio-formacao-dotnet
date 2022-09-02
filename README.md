@@ -1,5 +1,7 @@
 <div align="center">
 
+![Logo](/assets/images/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png)
+
 # Formação .NET Developer
 
 ![License badge](https://img.shields.io/badge/license-MIT-%2304D361)
