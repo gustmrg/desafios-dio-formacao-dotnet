@@ -1,12 +1,11 @@
 <div align="center">
 
-![Logo](/assets/images/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png)
+  <img src="/assets/images/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="120" width="120">
 
-# Formação .NET Developer
-
-![License badge](https://img.shields.io/badge/license-MIT-%2304D361)
+  # Formação .NET Developer
 
 </div>
+<br>
 
 ## :file_folder: Sobre este repositório
 
